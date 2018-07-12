@@ -7,21 +7,34 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Barrier_Sphere
-  m_Shader: {fileID: 4800000, guid: 94e3bb0247185f842a5153fe0cd6ef74, type: 3}
-  m_ShaderKeywords: 
-  m_LightmapFlags: 5
+  m_Shader: {fileID: 4800000, guid: 8cdada2fe5d979747b4a681249b16832, type: 3}
+  m_ShaderKeywords: _EMISSION
+  m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
-  disabledShaderPasses: []
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  - SHADOWCASTER
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 80b2f969abd91254eaf26fd181c0d787, type: 3}
-        m_Scale: {x: 10, y: 18}
+    - Texture_1F73C80C:
+        m_Texture: {fileID: 2800000, guid: ec59a4858c54d1d4aab9f46ca6a964df, type: 3}
+        m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    m_Floats: []
+    - Texture_EA804772:
+        m_Texture: {fileID: 2800000, guid: 6ac89f3870644384ea37a10df7ac846b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_6A593F0E: 1
+    - Vector1_C7D805F5: 0
+    - Vector1_CEC9A436: 1
     m_Colors:
-    - _Color: {r: 0.059763268, g: 0.26040316, b: 0.745283, a: 0.11764706}
+    - Color_127E2771: {r: 0.7028302, g: 0.9958438, b: 1, a: 1}
+    - Color_881330B0: {r: 0, g: 1.392881, b: 1.741101, a: 1}
+    - Color_EFE2FC64: {r: 0.7819769, g: 1.3643, b: 0.9539009, a: 1}
+    - Vector2_7EA6C0A5: {r: 5, g: 5, b: 0, a: 0}
+    - Vector2_860173AA: {r: 3, g: 3, b: 0, a: 0}

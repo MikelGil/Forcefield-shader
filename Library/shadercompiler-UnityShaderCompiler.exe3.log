@@ -1,0 +1,60 @@
+Base path: H:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=67985 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=20145 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=16717 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=26873 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=15257 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=23313 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=19909 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=35081 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=26505 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=19337 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=29169 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=25933 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=18265 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=27005 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=29077 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=43949 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=27513 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=42481 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=18609 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=51265 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=35805 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13402 outsize=52757 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=19973 outsize=13509 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=19973 outsize=293 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16785 outsize=14093 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=30861 outsize=217 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6056 outsize=10813 ok=1
+Cmd: initializeCompiler
+Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
+
+Quitting shader compiler process
